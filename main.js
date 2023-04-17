@@ -1,7 +1,7 @@
 const valorCampoA = document.getElementById('campoA')
 const valorCampoB = document.getElementById('campoB')
-const sucesso = 'uhul'
-const fail = 'fail'
+const sucesso = 'B é maior que A, uhul!'
+const fail = 'fail, B é menor que A'
 
 let form = document.getElementById('valores')
 
