@@ -1,0 +1,11 @@
+*{
+    background: rgb(233, 218, 247);
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+}
+button{
+    background-color: rgb(181, 143, 216);
+}
+button:hover {
+    background-color: blueviolet;
+}
